@@ -1,6 +1,6 @@
-# Copyright Bunting Labs, Inc. 2025
-
 #!/usr/bin/env python3
+
+# Copyright Bunting Labs, Inc. 2025
 
 import xml.etree.ElementTree as ET
 import copy
